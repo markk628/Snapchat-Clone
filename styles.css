@@ -1,0 +1,17 @@
+.friends {
+    background-color: yellow
+}
+
+.jumbotron {
+    background-color: yellow
+}
+
+.navbar-nav > li{
+    padding-right: 15px;
+    padding-left: 15px
+}
+
+.footer-foot > a{
+    padding-right: 15px;
+    padding-left: 15px
+}
